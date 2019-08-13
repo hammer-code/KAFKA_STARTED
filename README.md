@@ -21,3 +21,8 @@ python service_consumer/consumer.py
 python service_publisher/manage.py server
 ```
 
+## STARTING KAFKA
+```
+cd kafka
+docker-compose up 
+```
