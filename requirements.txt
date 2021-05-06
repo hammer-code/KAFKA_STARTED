@@ -6,7 +6,7 @@ chardet==3.0.4
 Click==7.0
 coloredlogs==10.0
 Flask==1.0.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 Flask-Script==2.0.6
 humanfriendly==4.18
