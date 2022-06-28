@@ -1,5 +1,5 @@
 aniso8601==7.0.0
-arrow==0.14.5
+arrow==0.15.1
 astroid==2.2.5
 certifi==2019.6.16
 chardet==3.0.4
